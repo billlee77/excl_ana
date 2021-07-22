@@ -139,16 +139,6 @@
 #include <calobase/RawCluster.h>
 #include <calobase/RawClusterContainer.h>
 
-
-#include <fun4all/Fun4AllServer.h>
-#include <eiceval/EventEvaluatorEIC.h>
-
-R__LOAD_LIBRARY(libfun4all.so)
-R__LOAD_LIBRARY(libeiceval.so)
-
-
-
-
 using namespace std;
 
 
